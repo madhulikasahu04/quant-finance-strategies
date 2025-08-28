@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 python moving_average.py
 python algorithmic_trading.py
-python monte_carlo.py
+python monte_carlo.py \`\`\`
 
 ## Sample Outputs
 
